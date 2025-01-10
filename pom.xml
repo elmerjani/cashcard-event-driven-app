@@ -10,6 +10,7 @@
     <modules>
         <module>cashcard-transaction-source</module>
         <module>cashcard-transaction-enricher</module>
+        <module>cashcard-transaction-domain</module>
     </modules>
 
 </project>

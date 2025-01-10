@@ -59,6 +59,10 @@
             <artifactId>spring-kafka-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>elmerjani.mohamed</groupId>
+            <artifactId>cashcard-transaction-domain</artifactId>
+        </dependency>
     </dependencies>
     <dependencyManagement>
         <dependencies>
@@ -68,6 +72,11 @@
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>elmerjani.mohamed</groupId>
+                <artifactId>cashcard-transaction-domain</artifactId>
+                <version>0.1.0</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cashcard-transaction-source" />
         <module name="cashcard-transaction-enricher" />
+        <module name="cashcard-transaction-domain" />
       </profile>
     </annotationProcessing>
   </component>

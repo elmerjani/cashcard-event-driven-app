@@ -1,0 +1,5 @@
+cashcard\domain\EnrichedTransaction.class
+cashcard\domain\ApprovalStatus.class
+cashcard\domain\Transaction.class
+cashcard\domain\CardHolderData.class
+cashcard\domain\CashCard.class
