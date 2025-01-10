@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cashcard-transaction-source/pom.xml" />
         <option value="$PROJECT_DIR$/cashcard-transaction-enricher/pom.xml" />
+        <option value="$PROJECT_DIR$/cashcard-transaction-sink/pom.xml" />
       </list>
     </option>
   </component>
