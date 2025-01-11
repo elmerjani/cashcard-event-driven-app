@@ -12,12 +12,15 @@
         <module name="cashcard-transaction-domain" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cashcard-transaction-e2e-tests" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="cashcard-transaction-enricher" options="-parameters" />
-      <module name="cashcard-transaction-sink" options="-parameters" />
-      <module name="cashcard-transaction-source" options="-parameters" />
+      <module name="cashcard-transaction-enricher" options="" />
+      <module name="cashcard-transaction-sink" options="" />
+      <module name="cashcard-transaction-source" options="" />
     </option>
   </component>
 </project>
