@@ -1,0 +1,6 @@
+cashcard\e2e\test\CashCardTransactionOnDemandE2ETests.class
+cashcard\e2e\test\CashCardTransactionStreamE2ETests.class
+cashcard\e2e\test\CashCardTransactionStreamE2EContainerTests$StreamTestConfig.class
+cashcard\e2e\test\CashCardTransactionOnDemandE2ETests$OnDemandTestConfig.class
+cashcard\e2e\test\CashCardTransactionStreamE2EContainerTests.class
+cashcard\e2e\test\CashCardTransactionStreamE2ETests$StreamTestConfig.class

@@ -17,6 +17,7 @@
         <module>cashcard-transaction-enricher</module>
         <module>cashcard-transaction-domain</module>
         <module>cashcard-transaction-sink</module>
+        <module>cashcard-transaction-e2e-tests</module>
     </modules>
 
 </project>

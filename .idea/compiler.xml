@@ -8,13 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cashcard-transaction-source" />
         <module name="cashcard-transaction-sink" />
+        <module name="cashcard-transaction-e2e-tests" />
         <module name="cashcard-transaction-enricher" />
         <module name="cashcard-transaction-domain" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="cashcard-transaction-e2e-tests" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

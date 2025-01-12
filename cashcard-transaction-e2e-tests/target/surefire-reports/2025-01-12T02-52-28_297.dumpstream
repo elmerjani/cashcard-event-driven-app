@@ -1,0 +1,5 @@
+# Created at 2025-01-12T02:52:28.639
+Boot Manifest-JAR contains absolute paths in classpath 'D:\mohamed el merjani\java project\event-driven-app\cashcard-transaction-e2e-tests\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

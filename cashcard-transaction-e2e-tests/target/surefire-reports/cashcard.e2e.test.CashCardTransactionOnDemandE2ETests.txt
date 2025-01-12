@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cashcard.e2e.test.CashCardTransactionOnDemandE2ETests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.78 s -- in cashcard.e2e.test.CashCardTransactionOnDemandE2ETests
